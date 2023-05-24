@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer
 --------------
 
-2-year-experience Unity Game Developer👾 full stack programmer👨‍💻: C#, Java, C++, Python, Typescript, Rust Now passionate about AIGC-related🤖
+2-year-experience Unity Game Developer👾 
+
+full stack programmer👨‍💻: C#, Java, C++, Python, Typescript, Rust 
+
+Now passionate about AIGC-related🤖
 
 * 🧠  I'm learning AIGC(LLM, Stable Diffusion, etc.)
 * 🤝  I'm open to collaborating on Game Developing and LLM related, Stable Diffusion
