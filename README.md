@@ -8,9 +8,7 @@ Game Developer
 
 full stack programmer👨‍💻: C#, Java, C++, Python, Typescript, Rust 
 
-Now passionate about AIGC-related🤖
-
-* 🧠  I'm learning AIGC(LLM, Stable Diffusion, etc.)
+* 🧠  I'm learning AIGC🤖(LLM, Stable Diffusion, etc.)
 * 🤝  I'm open to collaborating on Game Developing and LLM related, Stable Diffusion
 
 ### Skills
