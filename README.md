@@ -1,15 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charlie Dreemur
 =======================================================================================================================================
 
-Game Developer
+LLM & Game Developer
 --------------
 
 2-year-experience **Unity Game Developer**👾 
 
+LLM developer
+
 **full-stack programmer**👨‍💻
 
-* 🧠  I'm learning AIGC🤖(LLM, Stable Diffusion, etc.)
-* 🤝  I'm open to collaborating on Game Developing and LLM related, Stable Diffusion
+* 🧠  I'm learning & developing in AIGC🤖(LLM, Stable Diffusion, etc.)
+* 🤝  I'm open to collaborating on Game Developing and LLM related, AIGC, etc.
 * 📫  How to reach me: zhangwj.charlie@gmail.com
 
 ### Skills
