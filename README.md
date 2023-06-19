@@ -6,11 +6,11 @@ LLM & Game Developer
 
 2-year-experience **Unity Game Developer**👾 
 
-LLM developer
+**LLM** developer 🤖
 
 **full-stack programmer**👨‍💻
 
-* 🧠  I'm learning & developing in AIGC🤖(LLM, Stable Diffusion, etc.)
+* 🧠  I'm learning & developing in AIGC(LLM, Stable Diffusion, etc.)
 * 🤝  I'm open to collaborating on Game Developing and LLM related, AIGC, etc.
 * 📫  How to reach me: zhangwj.charlie@gmail.com
 
