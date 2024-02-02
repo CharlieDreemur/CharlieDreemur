@@ -11,8 +11,9 @@ LLM & Game Developer
 **full-stack programmer**👨‍💻
 
 * 🧠  I'm learning & developing in AIGC(LLM, Stable Diffusion, etc.)
-* 🤝  I'm open to collaborating on Game Developing and LLM related, AIGC, etc.
+* 🤝  I'm open to collaborating on Game Developing and LLM related, etc.
 * 📫  How to reach me: zhangwj.charlie@gmail.com
+* 🏠  My personal page: https://charliedreemur.wordpress.com/
 
 ### Skills
 
