@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 LLM & Game Developer
 --------------
 
-2-year-experience **Unity Game Developer**👾 
+3-year-experience **Game Developer**👾 
 
 **LLM** developer 🤖
 
