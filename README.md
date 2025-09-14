@@ -37,15 +37,16 @@ LLM & Full-stack Developer
 
 <p align="left">
   <a href="https://charliedreemur.github.io/" target="_blank" rel="noreferrer">
-    <img alt="Website" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="32" height="32" />
+    <img alt="Website (GitHub Pages)" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubpages.svg" width="32" height="32" />
   </a>
   <a href="https://scholar.google.com/citations?user=JN57tLsAAAAJ" target="_blank" rel="noreferrer">
-    <img alt="Google Scholar" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/google-scholar.svg" width="32" height="32" />
+    <img alt="Google Scholar" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlescholar.svg" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/charlie-zhang-1953b0250/" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="32" height="32" />
   </a>
 </p>
+
 
 ### Badges
 
