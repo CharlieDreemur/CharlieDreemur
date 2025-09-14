@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charlie Dreemur
 =======================================================================================================================================
-
-LLM & Game Developer
+3-year-experience 
+LLM & Full-stack Developer
 --------------
 
-3-year-experience **Game Developer**👾 
+**Game Developer**👾 
 
-**LLM** developer 🤖
+**LLM** researcher & developer 🤖
 
 **full-stack programmer**👨‍💻
 
-* 🧠  I'm learning & developing in AIGC(LLM, Stable Diffusion, etc.)
+* 🧠  I'm researching & developing in AIGC(LLM, Stable Diffusion, etc.)
 * 🤝  I'm open to collaborating on Game Developing and LLM related, etc.
 * 📫  How to reach me: zhangwj.charlie@gmail.com
 * 🏠  My personal page: https://charliedreemur.wordpress.com/
@@ -33,10 +33,19 @@ LLM & Game Developer
 <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/394536/unreal-engine.svg" width="36" height="36" alt="Unreal Engine" /></a>
 </p>
 
-
 ### Socials
 
-<a href="https://www.linkedin.com/in/charlie-zhang-1953b0250/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://charliedreemur.github.io/" target="_blank" rel="noreferrer">
+    <img alt="Website" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="32" height="32" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=JN57tLsAAAAJ" target="_blank" rel="noreferrer">
+    <img alt="Google Scholar" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/google-scholar.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/charlie-zhang-1953b0250/" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
 
 ### Badges
 
