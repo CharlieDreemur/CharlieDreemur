@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charlie Dreemur
 =======================================================================================================================================
-3-year-experience 
+4-year-experience 
 LLM & Full-stack Developer
 --------------
 
@@ -35,9 +35,17 @@ LLM & Full-stack Developer
 </p>
 
 ### Socials
-[![Website](https://img.shields.io/badge/Website-Visit-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://charliedreemur.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=JN57tLsAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-zhang-1953b0250/)
+<p align="left">
+  <a href="https://charliedreemur.github.io/" target="_blank" rel="noreferrer" title="Website">
+    <img src="https://api.iconify.design/mdi:web.svg?width=32&height=32" alt="Website" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=JN57tLsAAAAJ" target="_blank" rel="noreferrer" title="Google Scholar">
+    <img src="https://api.iconify.design/academicons:google-scholar.svg?width=32&height=32" alt="Google Scholar" />
+  </a>
+  <a href="https://www.linkedin.com/in/charlie-zhang-1953b0250/" target="_blank" rel="noreferrer" title="LinkedIn">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2&width=32&height=32" alt="LinkedIn" />
+  </a>
+</p>
 
 
 
