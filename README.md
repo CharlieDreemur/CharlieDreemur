@@ -10,10 +10,11 @@ LLM & Full-stack Developer
 
 **full-stack programmer**👨‍💻
 
-* 🧠  I'm researching & developing in AIGC(LLM, Stable Diffusion, etc.)
-* 🤝  I'm open to collaborating on Game Developing and LLM related, etc.
-* 📫  How to reach me: zhangwj.charlie@gmail.com
-* 🏠  My personal page: https://charliedreemur.wordpress.com/
+* 🧠  I'm researching & developing in AIGC (LLM, Stable Diffusion, etc.). My [Google Scholar](https://scholar.google.com/citations?user=JN57tLsAAAAJ)
+* 🤝  I'm open to collaborating on Game Developing and LLM-related projects
+* 📫  How to reach me: [zhangwj.charlie@gmail.com](mailto:zhangwj.charlie@gmail.com)
+* 🏠  My personal page: [charliedreemur.github.io](https://charliedreemur.github.io/)
+
 
 ### Skills
 
@@ -34,18 +35,10 @@ LLM & Full-stack Developer
 </p>
 
 ### Socials
+[![Website](https://img.shields.io/badge/Website-Visit-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://charliedreemur.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=JN57tLsAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-zhang-1953b0250/)
 
-<p align="left">
-  <a href="https://charliedreemur.github.io/" target="_blank" rel="noreferrer">
-    <img alt="Website (GitHub Pages)" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubpages.svg" width="32" height="32" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=JN57tLsAAAAJ" target="_blank" rel="noreferrer">
-    <img alt="Google Scholar" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlescholar.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/charlie-zhang-1953b0250/" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
 
 
 ### Badges
